@@ -1,0 +1,15 @@
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\bin\Debug\net6.0\Task15.exe
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\bin\Debug\net6.0\Task15.deps.json
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\bin\Debug\net6.0\Task15.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\bin\Debug\net6.0\Task15.pdb
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\refint\Task15.dll
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.pdb
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+C:\Users\arvac\Desktop\Паша\GeekBrain\Програмирование C#\Homework\Seminar02\Task15\obj\Debug\net6.0\ref\Task15.dll
